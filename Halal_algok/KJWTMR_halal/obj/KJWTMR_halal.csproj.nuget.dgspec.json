@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\bszom\\OneDrive\\Desktop\\git\\halal\\KJWTMR_halal\\KJWTMR_halal.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\bszom\\OneDrive\\Desktop\\git\\halal\\KJWTMR_halal\\KJWTMR_halal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bszom\\OneDrive\\Desktop\\git\\halal\\KJWTMR_halal\\KJWTMR_halal.csproj",
+        "projectName": "KJWTMR_halal",
+        "projectPath": "C:\\Users\\bszom\\OneDrive\\Desktop\\git\\halal\\KJWTMR_halal\\KJWTMR_halal.csproj",
+        "packagesPath": "C:\\Users\\bszom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bszom\\OneDrive\\Desktop\\git\\halal\\KJWTMR_halal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bszom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

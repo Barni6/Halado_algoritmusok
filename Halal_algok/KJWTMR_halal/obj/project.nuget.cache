@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RU6Dlvb/y2GeOrmCX/BH6kpGPk8ds9zMEwNxIEKSZqpUqKCUqS0jwnkS4l1L3a3QeFi9YoktgcFxXDCgGz5HxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bszom\\OneDrive\\Desktop\\git\\halal\\KJWTMR_halal\\KJWTMR_halal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bszom\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\bszom\\.nuget\\packages\\system.drawing.common\\8.0.3\\system.drawing.common.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

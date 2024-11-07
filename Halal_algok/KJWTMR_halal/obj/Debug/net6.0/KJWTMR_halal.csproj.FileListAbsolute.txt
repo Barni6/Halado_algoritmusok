@@ -1,0 +1,38 @@
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal\KJWTMR_halal\obj\Debug\net6.0\KJWTMR_halal.csproj.AssemblyReference.cache
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal\KJWTMR_halal\obj\Debug\net6.0\KJWTMR_halal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal\KJWTMR_halal\obj\Debug\net6.0\KJWTMR_halal.AssemblyInfoInputs.cache
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal\KJWTMR_halal\obj\Debug\net6.0\KJWTMR_halal.AssemblyInfo.cs
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal\KJWTMR_halal\obj\Debug\net6.0\KJWTMR_halal.csproj.CoreCompileInputs.cache
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal\KJWTMR_halal\bin\Debug\net6.0\KJWTMR_halal.exe
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal\KJWTMR_halal\bin\Debug\net6.0\KJWTMR_halal.deps.json
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal\KJWTMR_halal\bin\Debug\net6.0\KJWTMR_halal.runtimeconfig.json
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal\KJWTMR_halal\bin\Debug\net6.0\KJWTMR_halal.dll
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal\KJWTMR_halal\bin\Debug\net6.0\KJWTMR_halal.pdb
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal\KJWTMR_halal\obj\Debug\net6.0\KJWTMR_halal.dll
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal\KJWTMR_halal\obj\Debug\net6.0\refint\KJWTMR_halal.dll
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal\KJWTMR_halal\obj\Debug\net6.0\KJWTMR_halal.pdb
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal\KJWTMR_halal\obj\Debug\net6.0\KJWTMR_halal.genruntimeconfig.cache
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal\KJWTMR_halal\obj\Debug\net6.0\ref\KJWTMR_halal.dll
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal másolata\KJWTMR_halal\bin\Debug\net6.0\KJWTMR_halal.exe
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal másolata\KJWTMR_halal\bin\Debug\net6.0\KJWTMR_halal.deps.json
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal másolata\KJWTMR_halal\bin\Debug\net6.0\KJWTMR_halal.runtimeconfig.json
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal másolata\KJWTMR_halal\bin\Debug\net6.0\KJWTMR_halal.dll
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal másolata\KJWTMR_halal\bin\Debug\net6.0\KJWTMR_halal.pdb
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal másolata\KJWTMR_halal\obj\Debug\net6.0\KJWTMR_halal.csproj.AssemblyReference.cache
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal másolata\KJWTMR_halal\obj\Debug\net6.0\KJWTMR_halal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal másolata\KJWTMR_halal\obj\Debug\net6.0\KJWTMR_halal.AssemblyInfoInputs.cache
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal másolata\KJWTMR_halal\obj\Debug\net6.0\KJWTMR_halal.AssemblyInfo.cs
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal másolata\KJWTMR_halal\obj\Debug\net6.0\KJWTMR_halal.csproj.CoreCompileInputs.cache
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal másolata\KJWTMR_halal\obj\Debug\net6.0\KJWTMR_halal.dll
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal másolata\KJWTMR_halal\obj\Debug\net6.0\refint\KJWTMR_halal.dll
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal másolata\KJWTMR_halal\obj\Debug\net6.0\KJWTMR_halal.pdb
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal másolata\KJWTMR_halal\obj\Debug\net6.0\KJWTMR_halal.genruntimeconfig.cache
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal másolata\KJWTMR_halal\obj\Debug\net6.0\ref\KJWTMR_halal.dll
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal másolata\KJWTMR_halal\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal másolata\KJWTMR_halal\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal másolata\KJWTMR_halal\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal másolata\KJWTMR_halal\obj\Debug\net6.0\KJWTMR_halal.csproj.CopyComplete
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal\KJWTMR_halal\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal\KJWTMR_halal\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal\KJWTMR_halal\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\6.félév\Halal\KJWTMR_halal\KJWTMR_halal\obj\Debug\net6.0\KJWTMR_halal.csproj.CopyComplete
