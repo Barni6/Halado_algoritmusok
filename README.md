@@ -65,7 +65,7 @@ Ez a projekt a **Haladó algoritmusok** kurzus keretében készült, és külön
 ### Függvényközelítés PSO Algoritmussal
 ![Függvényközelítés](images/lin.PNG)
 ![Függvényközelítés](images/kvad.PNG)
-![Függvényközelítés](sin.PNG)
+![Függvényközelítés](images/sin.PNG)
 
 ### Képszegmentálás
 Bemenet
